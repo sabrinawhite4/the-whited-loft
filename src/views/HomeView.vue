@@ -15,7 +15,7 @@ export default {
       imageSource="src/assets/home.jpeg"
       alt="The White Loft"
     />
-    <h2 class="home-intro">Utah County's Newest and Finest Wedding Venue!</h2>
+    <h2 class="text-xl text-black text-center inset-y-1 absolute">Utah County's Newest and Finest Wedding Venue!</h2>
   </main>
 </template>
 
@@ -25,12 +25,5 @@ export default {
   max-width: 1280px;
   margin: 2rem auto;
   box-shadow: 0 0.15rem 1rem rgba(0, 0, 0, 0.25);
-}
-.home-intro {
-  position: absolute;
-  top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: black;
 }
 </style>

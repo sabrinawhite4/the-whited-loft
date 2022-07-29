@@ -6,7 +6,7 @@
 </script>
 <template>
   <div class="header">
-    <h1 class="name">The White Loft</h1>
+    <h3 class="name">The White Loft</h3>
     <!-- <font-awesome-icon icon="fa-solid fa-bars" /> -->
   </div>
 </template>
