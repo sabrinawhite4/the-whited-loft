@@ -10,7 +10,7 @@ export default [
   "decorations3.jpg",
   "flower6.jpg",
   "flower3.jpg",
-  "flower4.jpg",
+  "flowers4.jpg",
   "flower5.jpg",
   "flowers7.jpg",
   "steph&vale.jpg",

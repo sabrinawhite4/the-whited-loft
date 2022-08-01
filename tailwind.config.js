@@ -1,7 +1,11 @@
 module.exports = {
   content: ["./src/**/*.{html,js,vue}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        vilane: ["Vilane", "sans-serif"],
+      },
+    },
+    plugins: [],
   },
-  plugins: [],
 };

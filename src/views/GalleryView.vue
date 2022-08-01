@@ -1,13 +1,13 @@
 <script>
-import GalleryComponent from "../components/GalleryComponent.vue";
+import NewGalleryComponent from "../components/NewGalleryComponent.vue";
 export default {
   setup() {
     return;
   },
-  components: { GalleryComponent },
+  components: { NewGalleryComponent },
 };
 </script>
 
 <template>
-  <GalleryComponent />
+  <NewGalleryComponent />
 </template>

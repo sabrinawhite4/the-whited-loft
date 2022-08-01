@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Vilane";
+  src: url("/fonts/Vilane-Regular.ttf") format("truetype");
+}

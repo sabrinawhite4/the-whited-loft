@@ -1,9 +1,9 @@
 <template>
   <main>
-    <div class="contact-wrapper">
-      <h2 class="contact-text">Contact Us</h2>
-      <h3 class="contact-text">We are located at:</h3>
-      <div id="contacts"></div>
+    <div class="contact-wrapper text-black flex flex-col text-center">
+      <h1 class="contact-text text-6xl mb-20">Contact Us</h1>
+      <h3 class="contact-text text-4xl">We are located at:</h3>
+      <div id="contacts "></div>
       <a class="email-link" href="mailto:thewhiteloft@gmail.com">
         Email: thewhiteloft@gmail.com
       </a>
@@ -14,11 +14,4 @@
 </template>
 
 <style>
-.contact-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: black;
-  font-family: Verdana, sans-serif;
-}
 </style>
