@@ -6,6 +6,6 @@ module.exports = {
         vilane: ["Vilane", "sans-serif"],
       },
     },
-    plugins: [],
+    plugins: [require("@tailwindcss/forms")],
   },
 };
